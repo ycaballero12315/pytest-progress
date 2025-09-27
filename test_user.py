@@ -5,6 +5,8 @@ from user_easy import UserManager
 def user_manager():
     return UserManager()
 
+# user_manager = UserManager()
+
 def test_add_element_user(user_manager):
     """Create de fresh instance of UserManager before each test"""
     assert user_manager.add_user('Yoeny', 'hhgdggdj@jfhd.com') == True
