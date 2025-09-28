@@ -13,7 +13,7 @@ Repositorio de entrenamiento diario con **Pytest** y **Pytest-Mock** para mejora
 - [Instalación](#instalación)
 - [Estructura del Proyecto](#estructura-del-proyecto)
 - [Guía de Uso](#guía-de-uso)
-- [Conceptos Aprendidos](#conceptos-aprendidos)
+- [Conceptos Desarrollados](#conceptos-desarrollados)
 - [Ejemplos de Tests](#ejemplos-de-tests)
 - [Comandos Útiles](#comandos-útiles)
 - [Recursos](#recursos)
@@ -116,7 +116,7 @@ pytest --lf
 pytest -vv --tb=short
 ```
 
-## 🎓 Conceptos Probados
+## 🎓 Conceptos Desarrollados
 
 ### 1. **Tests Básicos**
 
