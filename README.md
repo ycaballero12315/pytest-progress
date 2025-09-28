@@ -2,16 +2,14 @@
 
 ![Python](https://img.shields.io/badge/python-3.13-blue.svg)
 ![Pytest](https://img.shields.io/badge/pytest-8.4.2-green.svg)
-![License](https://img.shields.io/badge/license-MIT-blue.svg)
 
-Repositorio de entrenamiento diario con **Pytest** y **Pytest-Mock** para mejorar habilidades en testing automatizado con Python.
+Repositorio que realice para entrenar un como los test automaticos **Pytest** y **Pytest-Mock** pueden apoyarce en el para mejorar habilidades en testing automatizado con Python.
 
 ## 📋 Tabla de Contenidos
 
 - [Descripción](#descripción)
 - [Tecnologías](#tecnologías)
 - [Instalación](#instalación)
-- [Estructura del Proyecto](#estructura-del-proyecto)
 - [Guía de Uso](#guía-de-uso)
 - [Conceptos Desarrollados](#conceptos-desarrollados)
 - [Ejemplos de Tests](#ejemplos-de-tests)
@@ -20,7 +18,7 @@ Repositorio de entrenamiento diario con **Pytest** y **Pytest-Mock** para mejora
 
 ## 📖 Descripción
 
-Este proyecto documenta mi progreso aprendiendo **testing automatizado** con Pytest. Incluye ejemplos prácticos de:
+Este proyecto documenta mi experiencia realizando **testing automatizado** con Pytest. Incluye ejemplos prácticos de:
 
 - ✅ Tests básicos con pytest
 - ✅ Uso de fixtures
@@ -513,7 +511,6 @@ Este es un repositorio de entrenamiento personal, pero si encuentras errores o t
 **Yoeny Caballero**
 - GitHub: [@ycaballero12315](https://github.com/ycaballero12315)
 
-## 📄 Licencia
 
 
 ---
