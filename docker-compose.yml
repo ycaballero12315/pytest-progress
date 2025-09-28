@@ -1,0 +1,9 @@
+version: '3.8'
+
+services:
+  pytest:
+    build: .
+    container_name: pytest-tests
+    volumes:
+      - .:/app
+    command: pytest -v --tb=short
