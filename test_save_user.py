@@ -3,7 +3,6 @@ from db_other import save_user
 def test_save_user(mocker):
     mock_connect = mocker.patch('db_other.sqlite3.connect')
     
-    # El objeto conexión que devuelve connect()
     mock_conn = mock_connect.return_value 
     mock_cursor = mock_conn.cursor.return_value
 
